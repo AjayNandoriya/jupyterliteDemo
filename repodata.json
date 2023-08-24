@@ -1,4 +1,4 @@
-'{
+{
     "info": {
         "arch": "wasm32",
         "platform": "emscripten_3_1_32",
@@ -3169,4 +3169,4 @@
             "sha256": "4e739696b2b1a85c649ca28eba4095ac85e43e3a59df82bc2899c21ffce0088b"
         }
     }
-}'
+}
