@@ -39,7 +39,7 @@
         "asttokens": {
             "name": "asttokens",
             "version": "2.2.1",
-            "file_name": "https://files.pythonhosted.org/packages/f3/e1/64679d9d0759db5b182222c81ff322c2fe2c31e156a59afd6e9208c960e5/asttokens-2.2.1-py2.py3-none-any.whl",
+            "file_name": "asttokens-2.2.1-py2.py3-none-any.whl",
             "install_dir": "site",
             "sha256": "6b0ac9e93fb0335014d382b8fa9b3afa7df546984258005da0b9e7095b3deb1c",
             "imports": [
@@ -106,7 +106,7 @@
         "backcall": {
             "name": "backcall",
             "version": "0.2.0",
-            "file_name": "https://files.pythonhosted.org/packages/4c/1c/ff6546b6c12603d8dd1070aa3c3d273ad4c07f5771689a7b69a550e8c951/backcall-0.2.0-py2.py3-none-any.whl",
+            "file_name": "backcall-0.2.0-py2.py3-none-any.whl",
             "install_dir": "site",
             "sha256": "fbbce6a29f263178a1f7915c1940bde0ec2b2a967566fe1c65c1dfb7422bd255",
             "imports": [],
@@ -413,7 +413,7 @@
         "comm": {
             "name": "comm",
             "version": "0.1.4",
-            "file_name": "https://files.pythonhosted.org/packages/fe/47/0133ac1b7dc476ed77710715e98077119b3d9bae56b13f6f9055e7da1c53/comm-0.1.4-py3-none-any.whl",
+            "file_name": "comm-0.1.4-py3-none-any.whl",
             "install_dir": "site",
             "sha256": "6d52794cba11b36ed9860999cd10fd02d6b2eac177068fdd585e1e2f8a96e67a",
             "imports": [],
@@ -606,7 +606,7 @@
         "executing": {
             "name": "executing",
             "version": "1.2.0",
-            "file_name": "https://files.pythonhosted.org/packages/28/3c/bc3819dd8b1a1588c9215a87271b6178cc5498acaa83885211f5d4d9e693/executing-1.2.0-py2.py3-none-any.whl",
+            "file_name": "executing-1.2.0-py2.py3-none-any.whl",
             "install_dir": "site",
             "sha256": "0314a69e37426e3608aada02473b4161d4caf5a4b244d1d0c48072b8fee7bacc",
             "imports": [
@@ -983,7 +983,7 @@
         "ipympl": {
             "name": "ipympl",
             "version": "0.9.3",
-            "file_name": "https://files.pythonhosted.org/packages/08/5b/83a88a44e5dd185104c400e0ed6cdba50c776a8f494d525298bb09db2e5c/ipympl-0.9.3-py2.py3-none-any.whl",
+            "file_name": "ipympl-0.9.3-py2.py3-none-any.whl",
             "install_dir": "site",
             "sha256": "d113cd55891bafe9b27ef99b6dd111a87beb6bb2ae550c404292272103be8013",
             "imports": [
@@ -1002,7 +1002,7 @@
         "ipython": {
             "name": "ipython",
             "version": "8.14.0",
-            "file_name": "https://files.pythonhosted.org/packages/52/d1/f70cdafba20030cbc1412d7a7d6a89c5035071835cc50e47fc5ed8da553c/ipython-8.14.0-py3-none-any.whl",
+            "file_name": "ipython-8.14.0-py3-none-any.whl",
             "install_dir": "site",
             "sha256": "248aca623f5c99a6635bc3857677b7320b9b8039f99f070ee0d20a5ca5a8e6bf",
             "imports": [
@@ -1024,7 +1024,7 @@
         "ipython-genutils": {
             "name": "ipython-genutils",
             "version": "0.2.0",
-            "file_name": "https://files.pythonhosted.org/packages/fa/bc/9bd3b5c2b4774d5f33b2d544f1460be9df7df2fe42f352135381c347c69a/ipython_genutils-0.2.0-py2.py3-none-any.whl",
+            "file_name": "ipython_genutils-0.2.0-py2.py3-none-any.whl",
             "install_dir": "site",
             "sha256": "72dd37233799e619666c9f639a9da83c34013a73e8bbc79a7a6348d93c61fab8",
             "imports": [
@@ -1035,7 +1035,7 @@
         "ipywidgets": {
             "name": "ipywidgets",
             "version": "8.1.0",
-            "file_name": "https://files.pythonhosted.org/packages/b8/d4/ce436660098b2f456e2b8fdf76d4f33cbc3766c874c4aa2f772c7a5e943f/ipywidgets-8.1.0-py3-none-any.whl",
+            "file_name": "ipywidgets-8.1.0-py3-none-any.whl",
             "install_dir": "site",
             "sha256": "6c8396cc7b8c95dfb4e9ab0054f48c002f045e7e5d7ae523f559d64e525a98ab",
             "imports": [
@@ -1145,7 +1145,7 @@
         "jupyterlab-widgets": {
             "name": "jupyterlab-widgets",
             "version": "3.0.8",
-            "file_name": "https://files.pythonhosted.org/packages/74/5e/2475ac62faf2e342b2bf20b8d8e375f49400ecb38f52e4e0a7557eb1cedb/jupyterlab_widgets-3.0.8-py3-none-any.whl",
+            "file_name": "jupyterlab_widgets-3.0.8-py3-none-any.whl",
             "install_dir": "site",
             "sha256": "4715912d6ceab839c9db35953c764b3214ebbc9161c809f6e0510168845dfdf5",
             "imports": [
@@ -1305,7 +1305,7 @@
         "matplotlib-inline": {
             "name": "matplotlib-inline",
             "version": "0.1.6",
-            "file_name": "https://files.pythonhosted.org/packages/f2/51/c34d7a1d528efaae3d8ddb18ef45a41f284eacf9e514523b191b7d0872cc/matplotlib_inline-0.1.6-py3-none-any.whl",
+            "file_name": "matplotlib_inline-0.1.6-py3-none-any.whl",
             "install_dir": "site",
             "sha256": "f1f41aab5328aa5aaea9b16d083b128102f8712542f819fe7e6a420ff581b311",
             "imports": [
@@ -1781,7 +1781,7 @@
         "pexpect": {
             "name": "pexpect",
             "version": "4.8.0",
-            "file_name": "https://files.pythonhosted.org/packages/39/7b/88dbb785881c28a102619d46423cb853b46dbccc70d3ac362d99773a78ce/pexpect-4.8.0-py2.py3-none-any.whl",
+            "file_name": "pexpect-4.8.0-py2.py3-none-any.whl",
             "install_dir": "site",
             "sha256": "0b48a55dcb3c05f3329815901ea4fc1537514d6ba867a152b581d69ae3710937",
             "imports": [
@@ -1794,7 +1794,7 @@
         "pickleshare": {
             "name": "pickleshare",
             "version": "0.7.5",
-            "file_name": "https://files.pythonhosted.org/packages/9a/41/220f49aaea88bc6fa6cba8d05ecf24676326156c23b991e80b3f2fc24c77/pickleshare-0.7.5-py2.py3-none-any.whl",
+            "file_name": "pickleshare-0.7.5-py2.py3-none-any.whl",
             "install_dir": "site",
             "sha256": "9649af414d74d4df115d5d718f82acb59c9d418196b7b4290ed47a12ce62df56",
             "imports": [
@@ -1866,7 +1866,7 @@
         "prompt-toolkit": {
             "name": "prompt-toolkit",
             "version": "3.0.39",
-            "file_name": "https://files.pythonhosted.org/packages/a9/b4/ba77c84edf499877317225d7b7bc047a81f7c2eed9628eeb6bab0ac2e6c9/prompt_toolkit-3.0.39-py3-none-any.whl",
+            "file_name": "prompt_toolkit-3.0.39-py3-none-any.whl",
             "install_dir": "site",
             "sha256": "9dffbe1d8acf91e3de75f3b544e4842382fc06c6babe903ac9acb74dc6e08d88",
             "imports": [
@@ -1879,7 +1879,7 @@
         "ptyprocess": {
             "name": "ptyprocess",
             "version": "0.7.0",
-            "file_name": "https://files.pythonhosted.org/packages/22/a6/858897256d0deac81a172289110f31629fc4cee19b6f01283303e18c8db3/ptyprocess-0.7.0-py2.py3-none-any.whl",
+            "file_name": "ptyprocess-0.7.0-py2.py3-none-any.whl",
             "install_dir": "site",
             "sha256": "4b41f3967fce3af57cc7e94b888626c18bf37a083e3651ca8feeb66d492fef35",
             "imports": [],
@@ -1888,7 +1888,7 @@
         "pure-eval": {
             "name": "pure-eval",
             "version": "0.2.2",
-            "file_name": "https://files.pythonhosted.org/packages/2b/27/77f9d5684e6bce929f5cfe18d6cfbe5133013c06cb2fbf5933670e60761d/pure_eval-0.2.2-py3-none-any.whl",
+            "file_name": "pure_eval-0.2.2-py3-none-any.whl",
             "install_dir": "site",
             "sha256": "01eaab343580944bc56080ebe0a674b39ec44a945e6d09ba7db3cb8cec289350",
             "imports": [
@@ -2669,7 +2669,7 @@
         "stack-data": {
             "name": "stack-data",
             "version": "0.6.2",
-            "file_name": "https://files.pythonhosted.org/packages/6a/81/aa96c25c27f78cdc444fec27d80f4c05194c591465e491a1358d8a035bc1/stack_data-0.6.2-py3-none-any.whl",
+            "file_name": "stack_data-0.6.2-py3-none-any.whl",
             "install_dir": "site",
             "sha256": "cbb2a53eb64e5785878201a97ed7c7b94883f48b87bfb0bbe8b623c74679e4a8",
             "imports": [
@@ -2890,7 +2890,7 @@
         "traitlets": {
             "name": "traitlets",
             "version": "5.9.0",
-            "file_name": "https://files.pythonhosted.org/packages/77/75/c28e9ef7abec2b7e9ff35aea3e0be6c1aceaf7873c26c95ae1f0d594de71/traitlets-5.9.0-py3-none-any.whl",
+            "file_name": "traitlets-5.9.0-py3-none-any.whl",
             "install_dir": "site",
             "sha256": "9e6ec080259b9a5940c797d58b613b5e31441c2257b87c2e795c5228ae80d2d8",
             "imports": [],
@@ -3004,7 +3004,7 @@
         "wcwidth": {
             "name": "wcwidth",
             "version": "0.2.6",
-            "file_name": "https://files.pythonhosted.org/packages/20/f4/c0584a25144ce20bfcf1aecd041768b8c762c1eb0aa77502a3f0baa83f11/wcwidth-0.2.6-py2.py3-none-any.whl",
+            "file_name": "wcwidth-0.2.6-py2.py3-none-any.whl",
             "install_dir": "site",
             "sha256": "795b138f6875577cd91bba52baf9e445cd5118fd32723b460e30a0af30ea230e",
             "imports": [
